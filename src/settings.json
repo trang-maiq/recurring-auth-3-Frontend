@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "TechMeetup 2025 is coming soon - don't miss out!",
+        "linkText": "Register now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the potential of innovation by sharing ideas and expertise.",
+        "title": "Empower Your Tech Journey with Yay"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the potential of innovation by sharing ideas and expertise.",
+        "title": "Empower Your Tech Journey with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the potential of innovation by sharing ideas and expertise.",
+        "title": "Empower Your Tech Journey with Yay"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the potential of innovation by sharing ideas and expertise.",
+        "title": "Empower Your Tech Journey with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the potential of innovation by sharing ideas and expertise.",
+        "title": "Empower Your Tech Journey with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the potential of innovation by sharing ideas and expertise.",
+        "title": "Empower Your Tech Journey with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the potential of innovation by sharing ideas and expertise.",
+        "title": "Empower Your Tech Journey with Yay"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Empower Your Tech Journey with Yay",
+  "subtitle": "Unleash the potential of innovation by sharing ideas and expertise."
+}
